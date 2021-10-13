@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ben Claas! (@bclaas). Mechanical Engineering BS student @ UW-Platteville.
+- 👀 I’m interested in CFD, FEA, Data Science, and automating boring tasks!
+- 🌱 I’m currently learning all of the above(^^^) + how to use Linux, 
+- 💞️ I’m looking to collaborate wherever I can be helpful!
