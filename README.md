@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Ben Claas! (@bclaas). Mechanical Engineering BS student @ UW-Platteville.
+- 👋 Hi, I’m Ben Claas! (@bclaas). 
+  - Recent Mechanical Engineering BS graduate from University of Wisconsin - Platteville.
+  - Vehicle Dynamics Modeling & Simulation Engineer at Oshkosh Corporation.
 - 👀 I’m interested in CFD, FEA, Data Science, and automating boring tasks!
 - 🌱 I’m currently learning all of the above(^^^) + how to use Linux, 
 - 💞️ I’m looking to collaborate wherever I can be helpful!
